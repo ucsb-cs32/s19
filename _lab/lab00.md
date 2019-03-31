@@ -13,7 +13,7 @@ Goals
 By the time you have finished this lab, you should have demonstrated
 your ability to:
 
--   Join the Github Organization <https://github.com/ucsb-cs32-s19/>
+-   Join the Github Organization <https://github.com/ucsb-cs32-s19-wang/>
 -   Use some basic Unix commands, and learn about new Unix commands
 -   Create a basic Makefile from scratch
 -   Do some simple C++ programming as review of C++ basics, and as

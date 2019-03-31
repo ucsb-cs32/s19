@@ -9,11 +9,12 @@ Basic Facts
 
 * **Course Web Site**: <https://ucsb-cs32.github.io/s19/>
 * **Instructor**:  [Richert Wang](http://www.cs.ucsb.edu/~richert)
-   * Email is richert@ucsb.edu, BUT please use [Piazza](piazza.com/ucsb/winter2019/cs32w19/home) for course related communication.
+   * Email is richert@ucsb.edu, BUT please use [Piazza](piazza.com/ucsb/spring2019/cs32s19/home) for course related communication.
 * **Lecture**: MW 09:30am-10:45am CHEM 1171, ATTENDANCE REQUIRED.
 * **TAs**:  {{site.ta_list_full}} (contact via Piazza)
+* **Mentors**: {{site.mentors_list}} (contact via Piazza)
 * **Lab** (50 minute lab section): Wednesdays 12pm, 1pm, 2pm, 3pm - Phelps 3525, ATTENDANCE REQUIRED.                                         
-* **Office Hours**: Tuesday 2:00pm - 3:00pm, Thursday 11:00am - 12:00pm in HFH 1151.
+* **Office Hours**: See <https://ucsb-cs32.github.io/s19/office_hours/>
 
 # Required Resources
 
@@ -38,7 +39,7 @@ Advanced topics in object-oriented computing. Topics include encapsulation, data
 ## A few course policies in brief
 
 * If you are registered for another UCSB course that overlaps with this one, you MUST HAVE specific written permission from both instructors, or I am within my rights to give you a failing grade on any work you miss as a result, and will NOT make any accommodations for you.
-* Collaboration is only permitted when specifically allowed for—otherwise, you must do your own work.
+* Collaboration is only permitted when specifically allowed for — otherwise, you must do your own work.
    * On most homework assignments you may collaborate with at most one other person (who must be named).
 * Attendance is required at all lectures and labs (discussion sections).
   * I recognize that some absences (e.g. minor illnesses, mishaps, etc.) are unavoidable. Litigating whether each of these is "excused" or not isn't a good use of anyone's time, so instead we will drop the lowest four grades from everyone's homework. This way, absences (or failure to submit homework) does not unduly penalize your grade unless it becomes excessive.
@@ -74,7 +75,7 @@ Your course grade will be determined as follows:
 | Midterm 2 (Thurs 5/23)            | 15 %                      |
 | Final (Mon 6/10 12pm - 2pm)       | 30 %                      |
 | Homeworks                         | 10 %                      |
-| labs                              | 30 %                      |
+| Labs                              | 30 %                      |
 
 In general, homeworks will be assigned periodically throughout the quarter, and are due in lecture on the due date.
 
