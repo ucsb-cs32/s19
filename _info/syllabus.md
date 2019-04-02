@@ -9,12 +9,12 @@ Basic Facts
 
 * **Course Web Site**: <https://ucsb-cs32.github.io/s19/>
 * **Instructor**:  [Richert Wang](http://www.cs.ucsb.edu/~richert)
-   * Email is richert@ucsb.edu, BUT please use [Piazza](piazza.com/ucsb/spring2019/cs32s19/home) for course related communication.
+   * Email is richert@ucsb.edu, BUT please use [Piazza](https://piazza.com/ucsb/spring2019/cs32s19/home) for course related communication.
 * **Lecture**: MW 09:30am-10:45am CHEM 1171, ATTENDANCE REQUIRED.
 * **TAs**:  {{site.ta_list_full}} (contact via Piazza)
 * **Mentors**: {{site.mentors_list}} (contact via Piazza)
 * **Lab** (50 minute lab section): Wednesdays 12pm, 1pm, 2pm, 3pm - Phelps 3525, ATTENDANCE REQUIRED.                                         
-* **Office Hours**: See <https://ucsb-cs32.github.io/s19/office_hours/>
+* **Office Hours**: See <https://ucsb-cs32.github.io/s19/info/office_hours/>
 
 # Required Resources
 
