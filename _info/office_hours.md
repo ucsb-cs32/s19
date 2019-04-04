@@ -16,32 +16,32 @@ Richert Wang (HFH 1151)
 
 Ran Liu (Trailer 936 Room 103/104)
 
-Tuesdays 7pm - 8pm
-Wednesdays 6pm - 7pm
+* Tuesdays 7pm - 8pm
+* Wednesdays 6pm - 7pm
 
 Yuke Wang (Trailer 936 Room 103/104)
 
-Tuesdays 8pm - 9pm
-Wednesdays 8pm - 9pm
+* Tuesdays 8pm - 9pm
+* Wednesdays 8pm - 9pm
 
 # Mentor Open Lab Hours
 
 George Kripac (Phelps 3526)
 
-Tuesdays 7pm - 8pm
-Wednesdays 7pm - 8pm
-Thursdays 6pm - 7pm
+* Tuesdays 7pm - 8pm
+* Wednesdays 7pm - 8pm
+* Thursdays 6pm - 7pm
 
 Dylan Kupsh (Phelps 3526)
 
-Tuesdays 5pm - 8pm
+* Tuesdays 5pm - 8pm
 
 Garrett Lee (Phelps 3526)
 
-Tuesdays 5pm - 6pm
-Thursdays 5pm - 6pm
+* Tuesdays 5pm - 6pm
+* Thursdays 5pm - 6pm
 
 Andrew Luo (Phelps 3526)
 
-Tuesdays 6pm - 7pm
-Thursdays 6pm - 7pm
+* Tuesdays 6pm - 7pm
+* Thursdays 6pm - 7pm
