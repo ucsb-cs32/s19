@@ -25,7 +25,7 @@ Format
 - Will cover a broad range of topics, but probably not everything
 
 Topics
-- Will cover everything up to Tuesday's lecture (4/18)
+- Will cover everything up to Thursday's lecture (4/18)
 
 Makefiles
 - Know how to create one when multiple files are linked to form an executable
@@ -38,6 +38,7 @@ Standard Template Library
 - Reviewed some details about vectors
 	- Operations like [], at, front, back, pop_back, push_back, size, constructors, ...
 - STL container iterators
+	- std::vector, std::map, std::set,(std::unordered_map, std::unordered_set)
 	- begin(), end(), ++, <, *, erase
     - Using iterators in container methods as discussed in lecture.
 
