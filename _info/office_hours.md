@@ -28,9 +28,8 @@ Yuke Wang (Trailer 936 Room 103/104)
 
 George Kripac (Phelps 3526)
 
-* Tuesdays 7pm - 8pm
 * Wednesdays 7pm - 8pm
-* Thursdays 6pm - 7pm
+* Thursdays 6pm - 8pm
 
 Dylan Kupsh (Phelps 3526)
 
