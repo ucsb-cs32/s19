@@ -132,7 +132,7 @@ private:
 * Note: With inheritance, we can have an additional <b>protected<b> field.
 	* Protected members are accessible in the class that defines them and in classes that inherit from that class.
 * The ‘:’ operator here means the Student class inherits everything from a Person class.
-	* <i>Public Inheritance</i>: Public members of base class become public members or derived class. Protected members of base class become protected members of derived class.
+	* <i>Public Inheritance</i>: Public members of base class become public members of derived class. Protected members of base class become protected members of derived class.
 	* <i>Protected Inheritance</i>: Public and protected members of base class become protected members of derived class.
 	* <i>Private Inheritance</i>: Public and protected members of base class become private members of derived class.
 
