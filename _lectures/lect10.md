@@ -105,7 +105,7 @@ int main () {
     cout << r.toString() << endl; // Calls Student::toString
 
     Person s = Student("T", 12, 1111112);
-    cout << s.toString() << endl; // calls Person::toString() (memory sliced)
+    cout << s.toString() << endl; // calls Person::toString() (object sliced)
 
     Person* t = new Student("R", 10, 654321);
     cout << t->toString() << endl; // calls Student::toString (polymorphic)
